@@ -1,18 +1,20 @@
 
-# fonts
-# try to use fonts that already exist on the user's device
-# you can add as many fonts as you like anyway!
-# 'serif' and 'sans-serif' are the device's defualts, i think
+// fonts:
 
-# from https://512kb.club/faq
-# Sans-serif font stack
+// goals:
+// try to use fonts that already exist on the user's device
+// you can add as many fonts as you like anyway!
+// 'serif' and 'sans-serif' are the device's defualts, i think
+
+// from https://512kb.club/faq
+// Sans-serif font stack
 font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
 
-# Serif font stack
+// Serif font stack
 font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 
 
 
-# colors
+// colors
 
-# styles
+// styles
